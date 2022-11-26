@@ -83,6 +83,9 @@ input{
     border-radius: 20px;
     position: relative;
     bottom: 65px;
+    padding-left: 33px;
+    padding-right: 65px;
+    color: white;
 }
 
 input:hover{

@@ -11,6 +11,10 @@ body{
     color: white;
     overflow-x: hidden;
 }
+
+i{
+    width: 5px; 
+}
 /* Global Styling End */
 
 
@@ -176,7 +180,9 @@ span:hover{
 }
 
 footer{
-    margin-top: 50px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
 }
 
 footer li:hover{
